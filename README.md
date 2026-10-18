@@ -2,16 +2,14 @@
 
 # Satish Mishra
 
-### Senior Software Engineer · Backend & Full Stack Developer
+### Senior Software Engineer | Backend & Full Stack Developer
 
 **Founder — [ThinkVistar](https://thinkvistar.com/)**
 
-*Building scalable applications, secure backend systems, and enterprise-grade digital solutions.*
-
-<br/>
+*Building scalable, secure, and high-performance enterprise applications.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-mishra-b808381bb/)
-[![Portfolio](https://img.shields.io/badge/ThinkVistar-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thinkvistar.com/)
+[![Website](https://img.shields.io/badge/ThinkVistar-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thinkvistar.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satish70210@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=satishmp70&label=Profile%20Views&color=2563EB&style=flat)
@@ -22,24 +20,22 @@
 
 ## About Me
 
-I'm a software engineer from India with **5+ years of experience** designing, developing, and maintaining scalable web applications, REST APIs, enterprise platforms, and cloud-ready solutions.
+I'm a software engineer from India with **5+ years of experience** developing scalable web applications, REST APIs, enterprise platforms, and cloud-ready solutions.
 
-My core expertise includes **PHP, Laravel, Node.js, NestJS, TypeScript, React, Vue.js, and database architecture**, with a strong focus on security, performance, clean architecture, and maintainable code.
+I specialize in **PHP, Laravel, Node.js, NestJS, TypeScript, React, Vue.js, and database architecture**, focusing on security, performance, clean architecture, and maintainability.
 
-| | |
-|---|---|
-| **Currently Building** | Enterprise CRM, ERP, Real Estate, FinTech & SaaS Applications |
-| **Company** | [ThinkVistar](https://thinkvistar.com/) |
-| **Exploring** | System Design, Microservices, AI Integration, Cloud & DevOps |
-| **Specializations** | Multi-Tenant SaaS, RBAC, REST APIs, Payment Integrations |
-| **Location** | India |
-| **Contact** | [satish70210@gmail.com](mailto:satish70210@gmail.com) |
+- **Currently Working On:** Enterprise CRM, ERP, Real Estate Management, FinTech & SaaS Applications
+- **Founder:** [ThinkVistar](https://thinkvistar.com/) — Custom Software & Digital Solutions
+- **Exploring:** System Design, Microservices, AI Integration, Cloud Architecture & DevOps
+- **Expertise:** Multi-Tenant SaaS, RBAC, REST APIs, Payment Integrations & Enterprise Architecture
+- **Location:** India
+- **Contact:** [satish70210@gmail.com](mailto:satish70210@gmail.com)
 
 ---
 
 ## Technology Stack
 
-### Backend Engineering
+### Backend Development
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -49,7 +45,7 @@ My core expertise includes **PHP, Laravel, Node.js, NestJS, TypeScript, React, V
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend Engineering
+### Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -57,8 +53,6 @@ My core expertise includes **PHP, Laravel, Node.js, NestJS, TypeScript, React, V
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ### Databases & ORM
 
@@ -70,7 +64,7 @@ My core expertise includes **PHP, Laravel, Node.js, NestJS, TypeScript, React, V
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
-### Cloud & DevOps
+### Cloud, DevOps & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -79,9 +73,8 @@ My core expertise includes **PHP, Laravel, Node.js, NestJS, TypeScript, React, V
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-### Tools & Testing
+### Development Tools & Testing
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -95,80 +88,89 @@ My core expertise includes **PHP, Laravel, Node.js, NestJS, TypeScript, React, V
 
 ## Architecture & Engineering Expertise
 
-| Architecture & Development | Security & Infrastructure |
+| Software Architecture | Security & Infrastructure |
 |---|---|
-| RESTful API Design | RBAC & Tenant Isolation |
+| RESTful API Design | Role-Based Access Control |
 | Enterprise Application Architecture | JWT & OAuth 2.0 |
-| Microservices & Modular Monolith | API Security & OWASP |
-| Multi-Tenant SaaS | CI/CD & Cloud Deployment |
-| Repository & Service Layer | Automated Testing & QA |
-| Database & Query Optimization | Payment Gateway & POS Integration |
-| WebSockets & Real-Time Systems | Secure Transaction Workflows |
+| Microservices & Modular Monolith | OWASP Security Practices |
+| Multi-Tenant SaaS | Tenant Data Isolation |
+| Repository & Service Layer | CI/CD & Cloud Deployment |
+| Database Optimization | Payment Gateway & POS Integration |
+| WebSockets & Real-Time Systems | Automated Testing & QA |
 
 ---
 
-## Featured Projects & Solutions
+## Featured Engineering Projects
 
 ### 01 — Enterprise Real Estate CRM & ERP
 
-**Enterprise management platform for real estate operations**
+A comprehensive enterprise management solution covering sales, procurement, inventory, finance, and real estate operations.
 
-A comprehensive platform covering sales, procurement, inventory, finance, and operational management.
-
-**Key Capabilities**
+**Key Features**
 - Sales, CRM & Booking Management
-- Procurement & Inventory
+- Procurement & Inventory Management
 - Finance, Accounts & Bank Verification
 - Tally Integration Workflows
 - Role-Based Access & Module Permissions
 - Revenue Reporting & Management Dashboards
 
-**Technologies:** `Laravel` `React` `MySQL` `REST APIs`
+**Tech Stack:** `Laravel` `React` `MySQL` `REST APIs`
+
+**Repository:** [Builder Management System](https://github.com/satishmp70/builder-management-system)
 
 ### 02 — Multi-Tenant Diagnostic SaaS
 
-**Scalable multi-tenant diagnostic management platform**
+A scalable diagnostic management platform designed with multi-level administration, tenant isolation, and secure access control.
 
-Designed to support multi-level administration, tenant isolation, and secure business workflows.
-
-**Key Capabilities**
+**Key Features**
 - Super Admin, Vendor Admin & Tenant Management
-- Tenant Isolation & Access Control
+- Tenant Isolation & RBAC
 - Wallet & Transaction Management
-- Modular Architecture
+- Modular Backend Architecture
 - Secure Authentication & Authorization
 
-**Technologies:** `NestJS` `TypeScript` `PostgreSQL` `JWT`
+**Tech Stack:** `NestJS` `TypeScript` `PostgreSQL` `JWT`
 
 ### 03 — FinTech & Digital Payment Solutions
 
-**Digital payment processing and financial services integration**
+Backend and full-stack solutions supporting digital financial services and secure transaction processing.
 
-Backend and full-stack solutions for financial transactions, payment processing, and digital services.
-
-**Key Capabilities**
+**Key Features**
 - Wallet & Transaction Management
-- Payment Gateway Integrations
+- Payment Gateway Integration
 - Mobile Recharge & Bill Payments
 - POS Card Payment Processing
 - Transaction Status Polling & Reconciliation
 - Secure Payment Workflows
 
-**Technologies:** `Laravel` `Node.js` `React` `Vue.js` `MySQL`
+**Tech Stack:** `Laravel` `Node.js` `React` `Vue.js` `MySQL`
 
 ### 04 — Decentralized Social Media Platform
 
-**Web3-inspired social media application**
+A Web3-inspired social media application combining wallet authentication with traditional social networking features.
 
-A social platform integrating wallet authentication with traditional content and user management.
-
-**Key Capabilities**
+**Key Features**
 - Wallet-Based Authentication
 - User Profiles & Content Management
 - Posts, Likes & Comments
 - Secure Backend APIs
 
-**Technologies:** `Next.js` `NestJS` `PostgreSQL` `TypeORM`
+**Tech Stack:** `Next.js` `NestJS` `PostgreSQL` `TypeORM`
+
+---
+
+## GitHub Repositories
+
+A selection of repositories from my development portfolio.
+
+| Repository | Focus |
+|---|---|
+| [builder-management-system](https://github.com/satishmp70/builder-management-system) | Real Estate Management |
+| [BM_CMS](https://github.com/satishmp70/BM_CMS) | Builder Management CMS |
+| [thinkvistar-web](https://github.com/satishmp70/thinkvistar-web) | ThinkVistar Website |
+| [office_management_system](https://github.com/satishmp70/office_management_system) | Office Management |
+| [Quiz-Nest-js](https://github.com/satishmp70/Quiz-Nest-js) | NestJS Application |
+| [product_filter_laravel](https://github.com/satishmp70/product_filter_laravel) | Laravel Application |
 
 ---
 
@@ -180,7 +182,7 @@ A social platform integrating wallet authentication with traditional content and
 | **Wv Infotech LLP** | Full Stack Developer |
 | **Poddar Diamond Pvt. Ltd.** | Backend Web Developer |
 
-**5+ years of professional experience** across enterprise analytics, learning management systems, e-commerce, SaaS platforms, backend engineering, and full-stack development.
+**5+ years of professional experience** across enterprise analytics, learning management systems, e-commerce, SaaS platforms, API development, and full-stack applications.
 
 ---
 
@@ -188,7 +190,7 @@ A social platform integrating wallet authentication with traditional content and
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishmp70&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishmp70&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishmp70&layout=compact&theme=github_dark&hide_border=true)
 
@@ -200,31 +202,27 @@ A social platform integrating wallet authentication with traditional content and
 
 ## Current Focus
 
-- **Enterprise Engineering** — Building secure, scalable applications
-- **Backend Architecture** — Designing clean and maintainable systems
-- **SaaS Development** — Developing multi-tenant platforms
-- **Performance** — Improving APIs and database efficiency
-- **DevOps** — Automating deployments and CI/CD workflows
-- **AI Engineering** — Exploring AI-assisted development
-- **Entrepreneurship** — Growing ThinkVistar
+- **Enterprise Engineering:** Building secure, scalable applications
+- **Backend Architecture:** Designing clean, maintainable systems
+- **SaaS Development:** Developing multi-tenant platforms
+- **Performance:** Improving APIs and database efficiency
+- **DevOps:** Automating deployments and CI/CD workflows
+- **AI Engineering:** Exploring AI-assisted development
+- **Entrepreneurship:** Growing ThinkVistar
 
 ---
 
-## Let's Build Something Great
+## Let's Collaborate
 
 <div align="center">
 
 Interested in collaborating on **Backend Engineering, Full Stack Development, SaaS Products, Enterprise Software, or Cloud-Based Applications?**
 
-I'm always open to meaningful technical discussions, collaborations, and new opportunities.
+I'm open to technical discussions, meaningful collaborations, and new opportunities.
 
-<br/>
-
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satish70210@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satish70210@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-mishra-b808381bb/)
 [![ThinkVistar](https://img.shields.io/badge/Visit_ThinkVistar-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thinkvistar.com/)
-
-<br/>
 
 *Building scalable solutions with clean code, secure architecture, and a product-first mindset.*
 
