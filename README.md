@@ -12,7 +12,9 @@
 [![Website](https://img.shields.io/badge/ThinkVistar-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thinkvistar.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satish70210@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=satishmp70&label=Profile%20Views&color=2563EB&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satishmp70&label=Profile+Views&color=2563EB&style=flat-square" alt="Profile Views" />
+</p>
 
 </div>
 
